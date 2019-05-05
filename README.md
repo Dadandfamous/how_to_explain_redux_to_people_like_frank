@@ -1,3 +1,9 @@
+# 
+
+The goal of this project was to explain React / Redux to a friend. 
+
+=================================================================
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
